@@ -1,0 +1,18 @@
+.privacy_container {
+    padding-top: 120px;
+    padding-left: 50px;
+    padding-right: 50%;
+}
+
+.privacy_container h2:first-child{
+padding-top: 0px;
+}
+
+.privacy_container h2{
+    padding-top: 24px;
+    padding-bottom: 8px;
+    }
+
+.bold {
+    font-weight: bold;
+}
